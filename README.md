@@ -1,4 +1,4 @@
-# Chicago Blackhawks 5v5 Shot Quality & Efficiency: Home vs. Away Split
+# Chicago Blackhawks 5v5 Shot Quality & Efficiency: Home vs. Away Split. Why are they winning at Home instead of Away?
 **Author:** Ayden Thongphadith  
 **Focus:** NHL Edge Tracking Data | Venue Impact | 5v5 Finishing Dynamics  
 
